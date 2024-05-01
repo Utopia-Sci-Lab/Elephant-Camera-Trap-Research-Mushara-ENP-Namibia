@@ -1,7 +1,8 @@
 # Elephant-Camera-Trap-Research-Mushara-ENP-Namibia
-Data and code repository for Camera Traps and Conservation manuscript (submitted for review).
+Data and code repository
 
-These data and code can be used to replicate all statistical modeling and results reported in the manuscript titled, "A snapshot into the lives of elephants: Camera traps and conservation in Etosha National Park, Namibia". The manuscript was submitted to MDPI _Diversity_ special issue: "Elephants: Moving from Conflict to Coexistence with People II" on October 16th, 2023.
+These data and code can be used to replicate all statistical modeling and results reported in the publication titled, "A snapshot into the lives of elephants: Camera traps and conservation in Etosha National Park, Namibia". The manuscript was published in MDPI _Diversity_ special issue: "Elephants: Moving from Conflict to Coexistence with People II" on November 17th, 2023.
+https://doi.org/10.3390/d15111146
 
 Data files contained in this repository:
 1. R markdown code containing all analyses ("JLBerezin_CameraTrap_DiversityMDPI_DataAnalysisCode.Rmd")
